@@ -1,0 +1,2 @@
+robot location: -0.000, -0.000 
+robot location: 1.901, 2.259 
